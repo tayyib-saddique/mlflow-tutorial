@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/319537916726434606/35260f84f96244c18f52e90e22375cc5/artifacts
+end_time: 1711620187571
+entry_point_name: ''
+experiment_id: '319537916726434606'
+lifecycle_stage: active
+run_id: 35260f84f96244c18f52e90e22375cc5
+run_name: apples_rf_test
+run_uuid: 35260f84f96244c18f52e90e22375cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711620180026
+status: 3
+tags: []
+user_id: Tayyib
